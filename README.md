@@ -68,5 +68,5 @@ Advanced analytics with environmental history.
 
 Adarsha K M
 
-Electronics & Communication Engineering
+Electronics & Communication Engineering, 
 G M Institute of Technology, VTU
