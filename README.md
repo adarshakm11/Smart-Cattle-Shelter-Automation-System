@@ -44,7 +44,7 @@ Update your Wi-Fi SSID and Password inside the code (const char* ssid and const 
 
 Upload the code to your ESP32.
 
-Usage
+## Usage
 Power up the ESP32 with the connected sensors and actuators.
 
 Open the Serial Monitor to confirm system initialization.
@@ -56,7 +56,7 @@ Open a browser and enter the IP address shown in the Serial Monitor.
 The web dashboard will display live sensor readings and system status.
 
 
-Future Improvements
+## Future Improvements
 
 Cloud-based data logging (Google Sheets or Firebase).
 
@@ -64,8 +64,9 @@ Mobile app integration for remote monitoring.
 
 Advanced analytics with environmental history.
 
-Author
+# Author
 
 Adarsha K M
-Electronics & Communication Engineer
+
+Electronics & Communication Engineering
 G M Institute of Technology, VTU
