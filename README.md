@@ -55,13 +55,6 @@ Open a browser and enter the IP address shown in the Serial Monitor.
 
 The web dashboard will display live sensor readings and system status.
 
-Repository Structure
-smart-cattle-shelter/
-│── src/
-│   └── main.ino        # ESP32 source code
-│── web/
-│   └── index.html      # Web dashboard (HTML/CSS/JS)
-│── README.md           # Documentation
 
 Future Improvements
 
